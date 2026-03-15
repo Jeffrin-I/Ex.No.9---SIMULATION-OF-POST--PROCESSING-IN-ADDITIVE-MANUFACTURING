@@ -46,9 +46,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![alt text](<Screenshot 2026-03-15 095657.png>) 
-![alt text](<Screenshot 2026-03-15 095755.png>) 
-![alt text](<Screenshot 2026-03-15 095822.png>)
+![alt text](<Screenshot 2026-03-15 095657-1.png>)
 
 ### Name: JEFFRIN I 
 ### Register Number: 212225240060
