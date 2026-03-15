@@ -10,26 +10,30 @@
 
 ## PROCEDURE:
 
-## Procedure for support removal
-### 1.	Select support removal from the list.
-### 2.	All the parts related to support removal are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+## Procedure for Support Removal
+### 1. Select **Support Removal** from the available list of processes.
+### 2. The components related to the support removal process will appear on the screen.
+### 3. Choose the parts in the correct sequence as displayed.
+### 4. When the first component is selected, it will appear in the blank space on the left side of the screen.
+### 5. If an incorrect sequence is chosen, a pop-up message will appear indicating the correct part that should be selected.
+
+---
 
 ## Procedure for UV Curing
-### 1.	Select UV curing from the list.
-### 2.	All the parts related to UV curing are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+### 1. Select **UV Curing** from the list of processes.
+### 2. All the elements associated with the UV curing stage will be displayed on the screen.
+### 3. Select the components one by one following the given order.
+### 4. After selecting the first component, it will be displayed in the blank space on the left side of the screen.
+### 5. If the sequence selected is incorrect, a pop-up message will appear indicating the correct component to be chosen.
 
-## Procedure for heat treatment
-### 1.	Select heat treatment from the list.
-### 2.	All the parts related to heat treatment are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+---
+
+## Procedure for Heat Treatment
+### 1. Select **Heat Treatment** from the list of available processes.
+### 2. The parts associated with the heat treatment process will be displayed on the screen.
+### 3. Select the components according to the sequence provided.
+### 4. When the first component is selected, it will appear in the blank space on the left side of the screen.
+### 5. If the wrong sequence is followed, a pop-up notification will appear showing the correct part that needs to be selected.
 
 ## OUTPUT :
 
