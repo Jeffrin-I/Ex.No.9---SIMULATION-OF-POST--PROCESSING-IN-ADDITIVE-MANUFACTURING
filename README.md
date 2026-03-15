@@ -47,6 +47,8 @@
 
 ## Output:
 ![alt text](<Screenshot 2026-03-15 095657-1.png>)
+![alt text](<Screenshot 2026-03-15 095755-1.png>)
+![alt text](<Screenshot 2026-03-15 095822-1.png>)
 
 ### Name: JEFFRIN I 
 ### Register Number: 212225240060
